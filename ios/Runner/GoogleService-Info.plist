@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>950504086475-kt31qv5o9mk8f8pmldvqc18l51ms6uon.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.950504086475-kt31qv5o9mk8f8pmldvqc18l51ms6uon</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>950504086475-lo6pjqs1eb5f3juneor16dhh9cg5me9m.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyADIWeHNpYNghYaAu8e0LQ0tKIwxE3Prf4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>950504086475</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.eat.campuseats</string>
+	<key>PROJECT_ID</key>
+	<string>campuseats-62dcb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>campuseats-62dcb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:950504086475:ios:1017dd28ff15ca1bd9744e</string>
+	<key>DATABASE_URL</key>
+	<string>https://campuseats-62dcb-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

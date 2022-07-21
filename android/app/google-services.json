@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "950504086475",
+    "firebase_url": "https://campuseats-62dcb-default-rtdb.firebaseio.com",
+    "project_id": "campuseats-62dcb",
+    "storage_bucket": "campuseats-62dcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950504086475:android:3694f57b2ac4a519d9744e",
+        "android_client_info": {
+          "package_name": "com.eat.campuseats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950504086475-lo6pjqs1eb5f3juneor16dhh9cg5me9m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eat.campuseats",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "950504086475-evh9rr40hl4dkv833jpvgtnjkoj57m9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3e7creds2mNblMnJVXExunkYtGHXoUTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950504086475-evh9rr40hl4dkv833jpvgtnjkoj57m9q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "950504086475-kt31qv5o9mk8f8pmldvqc18l51ms6uon.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eat.campuseats"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
